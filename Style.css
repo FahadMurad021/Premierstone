@@ -1,0 +1,42 @@
+.navbar {
+   background-color: #9575CD !important;
+}
+
+.nav-link, .navbar-brand {
+  color: seashell !important;
+  font-weight: bold !important;
+}
+
+.h1 {
+    color: slateblue !important;
+    font-size: larger !important;
+    font-weight: bold !important;
+    font-style: italic !important;
+    padding: 1em !important;
+}
+
+.column1, .column2, .column3 {
+  background-color: #9575CD;
+  width: 300px;
+  float: left;
+  text-align: center;
+  text-decoration-color: honeydew;
+  text-decoration-style: double;
+  margin: 10px;}
+
+  #footer {
+    background-color: #efefef;
+    padding: 10px;
+    margin: 10px;}
+
+.p {
+  font-style: italic !important;
+  text-shadow: gray !important;
+  text-align: center !important;
+}
+
+.card {
+  display: inline;
+  width: 100px;
+  height: 250px;
+}
